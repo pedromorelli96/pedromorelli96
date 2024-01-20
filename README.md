@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Rodrigo Ramos Morelli</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working at **Samsung R&D Institute Brazil**
+- 🔭 I’m currently working at **John Deere Financial**
 
-- 🌱 I’m currently learning **React, Next, Node**
-
-- 💬 Ask me about **React, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Typescript, Node, React, Docker, AWS, Terraform, Jenkins**
 
 - 📫 How to reach me **pedromorelli96@gmail.com**
 
