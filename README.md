@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pedromorelli96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19-rn0zLMJjyv3NRxM6b1W53kNnr7wE7w/view?usp=share_link](https://drive.google.com/file/d/19-rn0zLMJjyv3NRxM6b1W53kNnr7wE7w/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/12jAhF-ZYfcHli-37LMJtME-Oth7riBOM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
