@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Rodrigo Ramos Morelli</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working at **John Deere Financial**
+- 🔭 I’m currently working at **AB-Inbev**
 
 - 🌱 I’m currently learning **Typescript, Node, React, Docker, AWS, Terraform, Jenkins**
 
