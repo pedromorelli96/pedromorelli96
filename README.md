@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **AB-Inbev**
 
-- 🌱 I’m currently learning **Typescript, Node, React, Docker, AWS, Terraform, Jenkins**
+- 🌱 I’m currently learning **Typescript, Node, Python, Docker, AWS, Terraform**
 
 - 📫 How to reach me **pedromorelli96@gmail.com**
 
